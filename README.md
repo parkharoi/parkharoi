@@ -39,7 +39,7 @@
 ## 📝 Blog & Links
 
 📘 **Blog**: [[하영 블로그](https://ha-yeong.tistory.com/)  ]
-✉️ **Email**: haeun@g.yju.ac.kr
+✉️ **Email**: haeun8520@naver.com
 
 > 기술적인 글도 좋지만, 때때로 제 생각과 배움을 기록하며 스스로를 다잡습니다 😊  
 
