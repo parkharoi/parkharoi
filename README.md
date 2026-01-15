@@ -7,9 +7,9 @@ H a r o i . p a r k
 코드의 근거를 묻는 개발자, 하로이입니다.
 <br>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="120" alt="coding"/>
-</p>
+</p> -->
 </h1>
 
 
