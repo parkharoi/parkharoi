@@ -1,83 +1,102 @@
 <div align="center">
-  
- 🌸 H a r o i . p a r k 🌸 
 
-<h1 align="center">안녕하세요 👋 <br> 성실하게 성장하며, 긍정의 힘을 믿는 개발자 하로이입니다 ☀️</h1>
+H a r o i . p a r k
 
-</br>
+<h1 align="center">
+안녕하세요 <br>
+코드의 근거를 묻는 개발자, 하로이입니다.
+<br>
+
 <p align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="120" alt="Coding gif"/>
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="120" alt="coding"/>
+</p>
+</h1>
+
+
+<br>
+<p align="center">
+  <img src="https://render.gitanimals.org/farms/parkharoi" />
 </p>
 
-## 🌱 About Me
+> 커밋은 습관이고, 설계는 태도라고 생각합니다.  
+> 그래서 제 농장은 생각보다 꾸준히 자랍니다.
 
-> 천천히, 하지만 꾸준히 성장하는 개발자입니다.  
-> 어려움이 와도 긍정적으로 해석하고, 다시 일어서는 회복탄력성을 가지고 있습니다.  
->  
-> **“작은 걸음이 모여 큰 변화를 만든다.”**  
-> 오늘도 그 믿음으로 한 줄의 코드를 씁니다. 🌿
 
-</br>
 
-## ⚙️ Tech Stack
+## About Me
+
+저는 “돌아가면 된다”보다 “왜 이렇게 만들었는지 설명할 수 있는 코드”를 좋아합니다.
+
+- 기능 구현도 중요하지만, 유지보수 가능한 구조를 더 고민합니다  
+- 코드 리뷰에서 지적받으면 방어하기보다, 패턴을 먼저 공부합니다  
+- 완벽한 개발자는 아니지만, **같이 일하면 편한 개발자**이고 싶습니다  
+
+> 잘 짠 코드보다, 잘 설명할 수 있는 코드를 씁니다.
+
+<br>
+
+## Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,nestjs,postgres,mysql,docker,git,vscode,idea" />
+</p>
 
 <div align="center">
 
-| Backend | Database | DevOps | Tools |
-|----------|-----------|--------|--------|
-| ☕ Java | 🐬 MySQL | 🐳 Docker | 🧩 Git / VSCode / IntelliJ |
-| 🌿 Spring Boot | | | |
+| 분야 | 기술 |
+|----|----|
+| Backend | Java · Spring Boot · NestJS |
+| Database | PostgreSQL · MySQL |
+| DB Tool | pgAdmin |
+| DevOps | Docker |
+| Tools | Git · VSCode · IntelliJ |
 
 </div>
-</br>
+
+<br>
+
+## 최근에 신경 쓰는 포인트
+
+**NestJS**
+- 계층 구조(Controller → Service → Repository) 분리  
+- 의존성 주입을 활용한 테스트 가능한 구조 설계
+
+**PostgreSQL**
+- 테이블 설계 전 정규화와 인덱스 구조 먼저 고민  
+- pgAdmin을 활용한 실행 계획(EXPLAIN) 분석 연습
+
+**Docker**
+- “동작하는 환경”에서 “팀이 쓰기 쉬운 환경”으로 개선 중
+
+<br>
+
+## Blog & Contact
+
+**Blog**  
+https://ha-yeong.tistory.com/
+
+<br>
+
+**Email**  
+haeun8520@naver.com  
+
+> 성공담보다 시행착오를 더 많이 씁니다.  
+> 그래야 다음에 같은 실수를 반복하지 않으니까요.
+
+<br>
+
+## 한 줄 정리
+
+> 조용히 꾸준하고, 은근히 단단한 개발자.
+
+<br>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,docker,git,vscode,idea" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&width=435&lines=Thanks+for+visiting+!" />
 </p>
 
-</br>
-
-## 📝 Blog & Links
-
-📘 **Blog**: [[하영 블로그](https://ha-yeong.tistory.com/)  ]
-✉️ **Email**: haeun8520@naver.com
-
-> 기술적인 글도 좋지만, 때때로 제 생각과 배움을 기록하며 스스로를 다잡습니다 😊  
-
-</br>
-
-## 🌸 A Little Note
-
-> 💬 “코드 한 줄로 누군가의 하루를 조금 더 편하게 만들 수 있다면,  
-> 그게 제가 개발을 하는 이유입니다.”  
->  
-> 성실함과 긍정, 그리고 꾸준함으로 성장하는 개발자가 되겠습니다 🌼
-
-</br>
-
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&width=435&lines=Thank+you+for+visiting+!" alt="Typing SVG" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9be15d,100:00e3ae&height=90&section=footer"/>
 </p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:89f7fe,100:66a6ff&height=90&section=footer"/>
-</p>
-
-
-
-
-<!--
-**kakaeve/kakaeve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 </div>
