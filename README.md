@@ -14,9 +14,11 @@ H a r o i . p a r k
 
 
 <br>
-<p align="center">
-  <img src="https://render.gitanimals.org/farms/parkharoi" />
-</p>
+
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/parkharoi"/>
+</a>
 
 > 커밋은 습관이고, 설계는 태도라고 생각합니다.  
 > 그래서 제 농장은 생각보다 꾸준히 자랍니다.
